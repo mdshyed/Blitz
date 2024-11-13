@@ -19,7 +19,7 @@ Welcome to Blitz, the ultimate fashion retail experience designed to captivate a
 
 ## Introduction
 
-Blitz is a comprehensive fashion platform that seamlessly blends shopping with social media, creating an engaging and personalized experience. This project is our submission for Myntra Hackeramp WeForShe, where we aim to address key challenges in the fashion retail industry and provide a revolutionary solution.
+Blitz is a comprehensive fashion platform that seamlessly blends shopping with social media, creating an engaging and personalized experience. This project is our submission for Fashion• WeForShe, where we aim to address key challenges in the fashion retail industry and provide a revolutionary solution.
 
 ## Problem Statement
 
@@ -37,23 +37,15 @@ Blitz addresses these challenges by providing a platform that combines social me
 
 1. **Landing Page:** An engaging introduction with sign-up options via social media or email.
 2. **User Profiling:** Personalized fashion recommendations based on user profiles.
-3. **Home Page:** Shoppable posts from influencers, trending items, and upcoming events.
+3. **Home Page:** Shop able posts from influencer, trending items, and upcoming events.
 4. **Social Shopping & Influencer Collaborations:** Shop from influencer posts, join live events, share fashion posts, and read reviews.
 5. **Engagement & Gamification:** Weekly contests, virtual events, and workshops. Earn points for activities redeemable for rewards.
 6. **User Dashboard:** Manage profile, view history, update preferences, and see top user achievements.
 7. **Seamless Shopping:** Add items to cart and wishlist from posts with easy checkout and multiple payment options.
 
-## Screenshots
 
-Sneak Peek into Blitz - 
 
-### Weekly Contests - Fashionista 
 
-![image](https://github.com/user-attachments/assets/12863367-d7f0-4ae8-8a2e-58df23db22e1)
-
-### Explore trending Posts and Stories
-
-![image](https://github.com/user-attachments/assets/7dab51fe-81e7-4342-ac89-01d87bb10cac)
 
 
 ## Technology Stack
@@ -63,14 +55,11 @@ Blitz is powered by a robust tech stack:
 - **Backend:** Firebase for database and authentication
 - **Design & Prototyping:** Figma
 - **Additional Tools:** Node.js, Redux, and GitHub for version control and collaboration
-- **Hosting:** We have used Vercel for hosting the website , Check out the hosted website here - [Blitz](https://blitz-roan.vercel.app/)
+- **Hosting:** We have used Vercel for hosting the website , Check out the hosted website here -
 
-## Team Members
 
-Meet our passionate team:
-- **Mehak Verma** 
-- **Vaishali Gupta** 
-- **Harshita Yadav** 
+
+
 
 Together, we identified key challenges in fashion retail and crafted a solution that addresses them all.
 
@@ -82,39 +71,15 @@ Join the fashion revolution with Blitz! Future enhancements include:
 - Advanced analytics for personalized experiences.
 - Enhanced gamification with daily missions and rewards.
 - Global expansion.
-- Interactive live streams with top influencers and designers.
+- Interactive live streams with top influencer and designers.
 
-## Installation
+ 
 
-To get started with Blitz, follow these steps:
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/vaishali-gupta32/Blitz.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Blitz
-    ```
-3. Install the dependencies:
-    ```sh
-    npm install
-    ```
-4. Start the development server:
-    ```sh
-    npm start
-    ```
 
-## Usage
 
-Once the development server is running, you can access the application at `http://localhost:3000`. Explore the various features, sign up, and start your personalized fashion journey with Blitz.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/vaishali-gupta32/Blitz/blob/main/LICENSE) file for details.
 
-## Acknowledgements
-
-We would like to thank Myntra Hackeramp WeForShe for providing us with this opportunity to showcase our innovative solution and contribute to the fashion retail industry.
 
 
